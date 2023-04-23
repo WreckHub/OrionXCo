@@ -10,3 +10,4 @@ _G.Text3 = "SCRIPT RELOADING"
 _G.Text4 = "WAIT TILL ITS RELOADED (THX FOR PATIENT)"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
+
